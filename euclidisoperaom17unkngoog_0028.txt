@@ -1,0 +1,46 @@
+mensurentur umus n. 17
+
+Ergo datis tribus magnitudinibus commensurabili·
+bus maxima mensura communis inuenta est
+
+Corollarium.
+
+Hinc manifestum est, si magnitudo tres magnitu-
+dines metitur‚ eandem maximam earum mensuram
+communem metiri.
+
+Iam similiter etiam in pluribus maxima mensura
+communis sumetur, et corollarium quoque progredie-
+tur. - quod eret demonstrandum.
+
+V.
+
+Magnitudines commensurabiles inter se rationem
+habent, quam numerus adnumerum.
+
+Sint magnitudines commensurabiles A, B. dico, A
+ad B rationem habere, quam habeat numerus ad nu·
+merum.
+
+Nam quoniam A,B commensurabiles sunt, magni·
+tudo aliqua eas metietur. metiatur et sit Γ. et quoties
+Γ magnitudinem A metitur, totidem unitates sint in
+A, quoties autem Γ magnitudinem B metitur, totidem
+unitates sintin E.
+
+· iam qnoniam Γ magnitudinem A secundum unitates
+numeri A metitur, sedetiam unitas numerum A se·
+
+A B P cundum unitates eius metitur,
+¹“¹‘''‘⁴ '‘'“' Η unitas numerum A etI'magni·
+
+Η A tudinem A aequaliter metitur.
+¹-OE itaque Γ :A =12A [VII
+def. 20]. e contrario igitur [V, 7 coroll] A :r= A: 1.
+rursus quoniam Γ magnitudinem Β secundum uni·
+
+V. Alexander Aphrod. in Andl. pr. fol. 87.
+Euclides, edd. Helberg senlenge. 111. ἢ.
+
+ 
+
